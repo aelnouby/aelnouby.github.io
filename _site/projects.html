@@ -11,7 +11,7 @@
     
       <title>Projects</title>
     
-	
+
     <!-- Bootstrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
@@ -54,13 +54,14 @@
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/blog.html">BLOG</a></li>
         <li><a href="/projects.html">PROJECTS</a></li>
-        <li><a href="http://biomadeira.github.io/vitae">RESUME</a></li>
+        <li><a href="/research.html">RESEARCH</a></li>
+        <li><a href="https://drive.google.com/file/d/0B-3EpvYAHo2Ob0gwOWhlTWdfMGs/view?usp=sharing">RESUME</a></li>
       </ul>
     </div>
   </div>
 </nav>
+
 
     <section id="projects">
 <div class="container">
@@ -68,40 +69,58 @@
   <div class="panel panel-default">
     <div class="panel-body">
 		<h5>
-			<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Project 1</a></strong>
-			- Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel,
-			ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
-		</h5>
-		<h5>
-			<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Project 2</a></strong>
-			- An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire.
-			Te his neglegentur consectetuer.
-		</h5>
-    	<h5>
-			<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Project 3</a></strong>
-			- An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
-		</h5>
-		<h5>
-			<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="#">Project 4</a></strong>
-			- Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem,
-			ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
-		</h5>
-		<h5>
-			<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="#">Project 5</a></strong>
-			- Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo,
-			eam doming blandit facilisis.
-		</h5>
-		<h5>
-			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong><a href="#">Project 6</a></strong>
-			- Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem,
-			usu ex sapientem gubergren. Tamquam admodum ei usu.
-		</h5>
-		<h5>
-			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong><a href="#">Project 7</a></strong>
-			- Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum
-			tractatos partiendo at, debet ubique oporteat ut his.
-		</h5>
+			<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="#">Bachelor's Thesis</a></strong></h5>
+      <p>
+      Many large cities have crime and antisocial behavior problems, such as fights, vandalism, breaking and entering shop windows, etc. Often these cities have video cameras already installed. We propose a smart surveillance system to detect abandoned luggage in airports and public transportations, provide continuous analysis of people behaviours, discover potential threats in time and eventually prevent dangerous situations.
+      </p>
+      <ul>
+        <li><a href="https://drive.google.com/file/d/0B4mutBv2Nvu3RjVxYUJPU2k3d2M/view?usp=sharing">Thesis</a></li>
+        <li><a href="https://github.com/Grad-CSE2016"> Code </a></li>
+      </ul>
+      <div align="center">
+        <iframe width="450" height="280"
+          src="https://www.youtube.com/embed/xj3l7neOS0Q">
+        </iframe>
+      </div>
 
+
+		<h5>
+			<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Cross Data-set Action Detection</a></strong></h5>
+      <p>
+      I have worked on the implementation of the “Cross dataset action detection” <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/05539875-publish.pdf">paper</a> by <a href="http://www.ifp.illinois.edu/~cao4/">Liangliang Cao</a>. It builds a framework using GMMs that achieves two very complex tasks, first it adapts the GMMs trained on a source dataset which is fully annotated, to a target dataset with minimum or even no annotation at all; Secondly, it detects and localizes the regions where the action is happening.
+      </p>
+      <ul>
+        <li><a href="https://github.com/aelnouby/Cross-Dataset-Action-Detection">Code</a></li>
+      </ul>
+      <div align="center">
+        <figure>
+          <img widht="400" height="150" src="static/img/GMM.png">
+          <figcaption>Using of foreground and background scores to localize the action</figcaption>
+        </figure>
+      </div>
+
+		<h5>
+			<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Action Recognition</a></strong></h5>
+      <p>
+      I have implemented a pipeline for action recognition that classifies actions using interest points in 3D which are then quantized using K-means and represented in a Bag of words then classified using non-linear SVM.
+      </p>
+      <ul>
+        <li><a href="https://github.com/Grad-CSE2016/Action-Recognition">Code</a></li>
+      </ul>
+
+      <h5>
+        <i class="fa fa-cog"></i>&nbsp;&nbsp;<strong><a href="#">Face Recognition</a></strong></h5>
+        <p>In my Internship at <a href="http://www.avidbeam.com/">AvidBeam</a>, I worked on implementing facial Keypoints extraction for face recognition.</p>
+        <ul>
+          <li><a href="https://drive.google.com/file/d/0B-3EpvYAHo2OY2ZlaEZFaFhjM28/view?usp=sharing">Presentation</a></li>
+        </ul>
+
+		<h5>
+			<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong><a href="https://docs.google.com/document/d/1CSmPtAzq1s2NV4r60VaZNm7wCgpHunOeev2wx-kAQIM/edit?usp=sharing">GSOC-16 Pgmpy Proposal</a></strong></h5>
+			Tabular representation of factors is very inefficient for large networks, ADDs are a much more efficient alternative.
+    <h5>
+      <i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="https://github.com/aelnouby/Udacity-Deep-Learning-Assignments">Udacity Deep Learning Course Assignments</a></strong>
+    </h5>
 
     </div>
   </div>
@@ -111,16 +130,6 @@
 
 
   </div>
-  <!-- Footer -->
-  <footer>
-    <div id="footer">
-        <div class="container">
-            <p class="text-muted">© All rights reserved. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and
-            <a href="http://www.github.com/biomadeira/sustain">sustain</a> with ♥</p>
-        </div>
-    </div>
-</footer>
-<div class="footer"></div>
 
 <!--     <a href="https://github.com/biomadeira/sustain"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a> -->
 
