@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: rouge
+# highlighter: rouge
 #markdown: rdiscount
 #rdiscount:
 #  extensions: [smart]
@@ -22,7 +22,7 @@ github: aelnouby # username
 twitter: alaaelnouby
 linkedin: alaa-el-nouby-1b6496b9
 # stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
+#Comment out if you don't want disqus
 # disqus: username
 # google_analytics: UA-69391421-1
 
