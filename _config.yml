@@ -26,6 +26,9 @@ linkedin: alaa-el-nouby-1b6496b9
 # disqus: username
 # google_analytics: UA-69391421-1
 
+# Google Analytics
+google_analytics: UA-115408678-1
+
 
 # needed for travis-ci build
 exclude: [vendor]
