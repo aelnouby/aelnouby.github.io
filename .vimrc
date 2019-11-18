@@ -61,6 +61,8 @@ Plugin 'valloric/youcompleteme'
 
 Plugin 'klen/python-mode'
 
+Plug 'morhetz/gruvbox'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 
@@ -170,7 +172,7 @@ if $COLORTERM == 'gnome-terminal'
 endif
 
 try
-    colorscheme desert
+    colorscheme gruvbox
 catch
 endtry
 
