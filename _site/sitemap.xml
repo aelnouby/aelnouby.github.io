@@ -1,193 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://localhost:3000/</loc>
-    <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-    <url>
-      <loc>http://localhost:3000/post1.html</loc>
-      
-        <lastmod>2013-06-05T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:3000/post2.html</loc>
-      
-        <lastmod>2013-05-27T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:3000/post3.html</loc>
-      
-        <lastmod>2013-04-02T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:3000/post4.html</loc>
-      
-        <lastmod>2013-03-15T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:3000/post5.html</loc>
-      
-        <lastmod>2013-02-10T00:00:00-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:3000/post6.html</loc>
-      
-        <lastmod>2013-01-24T00:00:00-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:3000/post7.html</loc>
-      
-        <lastmod>2012-11-04T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-  
-  <url>
-    <loc>http://localhost:3000/404</loc>
-    
-      <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:3000/atom.xml</loc>
-    
-      <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:3000/blog</loc>
-    
-      <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:3000/</loc>
-    
-      <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:3000/projects</loc>
-    
-      <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:3000/research</loc>
-    
-      <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:3000/sitemap.xml</loc>
-    
-      <lastmod>2018-02-26T11:45:21-05:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2000-10-24T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2018-03-24T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2019-04-10T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2019-10-24T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/static/GeNeVA__ICCV_poster.pdf</loc>
+<lastmod>2020-06-23T14:02:19+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/static/SkipClip__ICCV_poster.pdf</loc>
+<lastmod>2020-06-23T14:02:19+02:00</lastmod>
+</url>
 </urlset>

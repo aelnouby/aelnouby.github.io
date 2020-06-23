@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Skip-Clip: Self-Supervised Spatiotemporal Representation
+              Learning by Future Clip Order Ranking"
+image: images/skipclip.jpg
+categories: research
+author: "Alaaeldin El-Nouby"
+authors: "<strong>Alaaeldin El-Nouby</strong>, Shuangfei Zhai, Graham W.
+              Taylor, Joshua M. Susskind"
+venue: "Holistic Video Understanding Workshop ICCV2019 <strong>(Best poster Award)</strong>"
+arxiv: https://arxiv.org/abs/1910.12770
+poster: static/SkipClip__ICCV_poster.pdf
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wVlGz8mDDl8J:scholar.google.com/&output=citation&scisdr=CgVEUX-mEJL1iATrkuY:AAGBfm0AAAAAXvHuiuZbUT0QQRczLXcApo_VSjD5rSBp&scisig=AAGBfm0AAAAAXvHuihibXdeqwpe64aCTBIFICtClIGe2&scisf=4&ct=citation&cd=-1&hl=en
+---
+We introduce Skip-Clip, a method that utilizes temporal
+              coherence in videos, by training a deep model for future clip
+              order ranking conditioned on a context clip as a surrogate
+              objective for video future prediction. We show that features
+              learned using our method are generalizable and transfer strongly
+              to downstream tasks.

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Tell, Draw, and Repeat: Generating and Modifying Images Based
+              on Continual Linguistic Instruction"
+image: images/GeNeVA.png
+categories: research
+author: "Alaaeldin El-Nouby"
+authors: "<strong>Alaaeldin El-Nouby</strong>, Shikhar Sharma, Hannes
+              Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua
+              Bengio, Graham W.Taylor"
+venue: "Proceedings of the 2019 IEEE International Conference on
+              Computer Vision (ICCV)"
+arxiv: https://arxiv.org/abs/1811.09845
+code: https://github.com/Maluuba/GeNeVA
+blog: https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/
+poster: static/GeNeVA__ICCV_poster.pdf
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:OX-r6SAfSpgJ:scholar.google.com/&output=citation&scisdr=CgVEUX-mEJL1iATrdlA:AAGBfm0AAAAAXvHublDUgIs3QKmeigWeQNR1LDM6Gf_1&scisig=AAGBfm0AAAAAXvHubtUEcVd1aLhSLOINYoy-9CF2s1rh&scisf=4&ct=citation&cd=-1&hl=en
+---
+In this work, we present a recurrent image
+              generation model which takes into account both the generated
+              output up to the current step as well as all past instructions for
+              generation. We show that our model is able to generate the
+              background, add new objects, and apply simple transformations to
+              existing objects.

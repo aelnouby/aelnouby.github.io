@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Spatiotemporal Representation Learning For Human Action Recognition And Localization"
+image: images/thesis.png
+categories: research
+author: "Alaaeldin El-Nouby"
+authors: "Alaaeldin El-Nouby"
+arxiv: https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/17417/ali_alaaeldin_201909_MSc.pdf?sequence=5&isAllowed=y
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_SDobe2TbAYJ:scholar.google.com/&output=citation&scisdr=CgVEUX-mEJL1iATqinI:AAGBfm0AAAAAXvHvknKRKKVjO3IF38u0FzHDtoTOxRir&scisig=AAGBfm0AAAAAXvHvkrsnZXcAhNLCbLSZStjvFKfqRSFx&scisf=4&ct=citation&cd=-1&hl=en
+---
+A Thesis presented toThe University of Guelph In partial fulfilment of requirements for the degree of Master of Applied Science in Engineering
