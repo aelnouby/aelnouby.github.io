@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Training Vision Transformers for Image Retrieval"
-image: images/IRT.png
+image: images/irt.png
 categories: research
 author: "Alaaeldin El-Nouby"
 authors: "<strong>Alaaeldin El-Nouby</strong>,  Natalia Neverova, Ivan Laptev, Hervé Jégou"
