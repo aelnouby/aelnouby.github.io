@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference"
+image: images/tradeoffs.jpg
+categories: research
+author: "Alaaeldin El-Nouby"
+authors: "Ben Graham, <strong>Alaaeldin El-Nouby</strong>, Hugo Touvron, Pierre Stock, Armand Joulin, Hervé Jégou, Matthijs Douze"
+venue: "Preprint"
+arxiv: https://arxiv.org/abs/2104.01136
+---
+We propose LeVIT: a hybrid neural network for fast inference image classification. We consider different measures of efficiency
+on different hardware platforms, so as to best reflect a wide range of application scenarios. Our extensive experiments empirically validate
+our technical choices and show they are suitable to most architectures. Overall, LeViT significantly outperforms existing convnets and vision
+transformers with respect to the speed/accuracy tradeoff. For example, at 80\% ImageNet top-1 accuracy, LeViT is 3.3 times faster than EfficientNet on the CPU.
