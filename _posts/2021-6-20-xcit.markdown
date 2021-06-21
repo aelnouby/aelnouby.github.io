@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "XCiT: Cross-Covariance Image Transformer"
-image: ![](https://github.com/facebookresearch/xcit/blob/master/.github/xcit_layer.png)
+image: images/xcit_layer.png
 categories: research
 authors: "<em>Alaaeldin El-Nouby</em>, Hugo Touvron, Mathilde Caron, Piotr Bojanowski, Matthijs Douze, Armand Joulin, Ivan Laptev, Natalia Neverova, Gabriel Synnaeve, Jakob Verbeek, Hervé Jegou
 "
