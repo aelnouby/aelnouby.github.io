@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "XCiT: Cross-Covariance Image Transformer"
+image: https://github.com/facebookresearch/xcit/blob/master/.github/xcit_layer.png
+categories: research
+authors: "<em>Alaaeldin El-Nouby</em>, Hugo Touvron, Mathilde Caron, Piotr Bojanowski, Matthijs Douze, Armand Joulin, Ivan Laptev, Natalia Neverova, Gabriel Synnaeve, Jakob Verbeek, Hervé Jegou
+"
+venue: "Preprint"
+arxiv: https://arxiv.org/abs/2106.09681v2
+code: https://github.com/facebookresearch/xcit
+---
+We propose a "transposed" version of self-attention that operates across feature channels rather than tokens. The resulting cross-covariance attention
+(XCA) has linear complexity in the number of tokens. Our cross-covariance image transformer (XCiT) is built upon XCA.
+It combines the accuracy of conventional transformers with the scalability of convnets. XCiT povides excellent results on multiple vision benchmarks, including image classification and self-supervised feature learning on ImageNet-1k,
+object detection and instance segmentation on COCO, and semantic segmentation on ADE20k.
