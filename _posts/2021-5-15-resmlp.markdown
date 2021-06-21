@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ResMLP: Feedforward networks for image classification with data-efficient training"
+image: https://github.com/facebookresearch/deit/blob/main/.github/resmlp.png
+categories: research
+authors: "Hugo Touvron, Piotr Bojanowski, Mathilde Caron, Matthieu Cord, <em>Alaaeldin El-Nouby</em>, Edouard Grave, Gautier Izacard, Armand Joulin, Gabriel Synnaeve, Jakob Verbeek, Hervé Jégou"
+venue: "Preprint"
+arxiv: https://arxiv.org/abs/2105.03404
+code: https://github.com/facebookresearch/deit/blob/main/README_resmlp.md
+---
+We present ResMLP, an architecture built entirely upon multi-layer perceptrons for image classification.
+It is a simple residual network that alternates (i) a linear layer in which image patches interact, independently
+and identically across channels, and (ii) a two-layer feed-forward network in which channels interact independently per patch. 
