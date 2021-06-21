@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ResMLP: Feedforward networks for image classification with data-efficient training"
-image: ![](https://github.com/facebookresearch/deit/blob/main/.github/resmlp.png)
+image: images/resmlp_figure.png
 categories: research
 authors: "Hugo Touvron, Piotr Bojanowski, Mathilde Caron, Matthieu Cord, <em>Alaaeldin El-Nouby</em>, Edouard Grave, Gautier Izacard, Armand Joulin, Gabriel Synnaeve, Jakob Verbeek, Hervé Jégou"
 venue: "Preprint"
