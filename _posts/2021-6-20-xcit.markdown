@@ -8,7 +8,7 @@ authors: "<strong>Alaaeldin El-Nouby</strong>, Hugo Touvron, Mathilde Caron, Pio
 venue: "<strong>To appear at NeurIPS 2021</strong>"
 arxiv: https://arxiv.org/abs/2106.09681v2
 code: https://github.com/facebookresearch/xcit
-Yannic Kilcher's Review: https://www.youtube.com/watch?v=g08NkNWmZTA
+yannic kilcher's review: https://www.youtube.com/watch?v=g08NkNWmZTA
 ---
 We propose a "transposed" version of self-attention that operates across feature channels rather than tokens. The resulting cross-covariance attention
 (XCA) has linear complexity in the number of tokens. Our cross-covariance image transformer (XCiT) is built upon XCA.
