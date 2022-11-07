@@ -3,7 +3,7 @@ layout: post
 title:  "Are Large-scale Datasets Necessary for Self-Supervised Pre-training?"
 image: images/splitmask.png
 categories: research
-authors: "<strong>Alaaeldin El-Nouby</strong>, Gautier Izacard, Hugo Touvron, Ivan Laptev, Hervé Jegou, Edouard Grave"
+authors: "<strong>Alaaeldin El-Nouby*</strong>, Gautier Izacard*, Hugo Touvron, Ivan Laptev, Hervé Jegou, Edouard Grave"
 venue: "Under Review"
 arxiv: https://arxiv.org/abs/2112.10740
 ---
