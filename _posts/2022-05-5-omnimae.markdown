@@ -6,5 +6,6 @@ categories: research
 authors: "Rohit Girdhar*, <strong?Alaaeldin El-Nouby*</strong>, Mannat Singh*, Kalyan Vasudev Alwala*, Armand Joulin, Ishan Misra*"
 venue: Under Review
 arxiv: https://arxiv.org/abs/2206.08356
+code: https://github.com/facebookresearch/omnivore
 ---
  In this work, we show that masked autoencoding can be used to train a simple Vision Transformer on images and videos, without requiring any labeled data. This single model learns visual representations that are comparable to or better than single-modality representations on both image and video benchmarks, while using a much simpler architecture. In particular, our single pretrained model can be finetuned to achieve 86.5% on ImageNet and 75.3% on the challenging Something Something-v2 video benchmark. Furthermore, this model can be learned by dropping 90% of the image and 95% of the video patches, enabling extremely fast training.
