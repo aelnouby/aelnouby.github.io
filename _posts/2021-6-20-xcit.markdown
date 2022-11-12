@@ -5,7 +5,7 @@ image: images/xcit_layer.png
 categories: research
 authors: "<strong>Alaaeldin El-Nouby</strong>, Hugo Touvron, Mathilde Caron, Piotr Bojanowski, Matthijs Douze, Armand Joulin, Ivan Laptev, Natalia Neverova, Gabriel Synnaeve, Jakob Verbeek, Hervé Jegou
 "
-venue: "<strong>To appear at NeurIPS 2021</strong>"
+venue: "<strong>NeurIPS 2021</strong>"
 arxiv: https://arxiv.org/abs/2106.09681v2
 code: https://github.com/facebookresearch/xcit
 video: https://www.youtube.com/watch?v=g08NkNWmZTA
