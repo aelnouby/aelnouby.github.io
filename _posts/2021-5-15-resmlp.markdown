@@ -4,7 +4,7 @@ title:  "ResMLP: Feedforward networks for image classification with data-efficie
 image: images/resmlp_figure.png
 categories: research
 authors: "Hugo Touvron, Piotr Bojanowski, Mathilde Caron, Matthieu Cord, <strong>Alaaeldin El-Nouby</strong>, Edouard Grave, Gautier Izacard, Armand Joulin, Gabriel Synnaeve, Jakob Verbeek, Hervé Jégou"
-venue: "Preprint"
+venue: <strong>TPAMI</strong>
 arxiv: https://arxiv.org/abs/2105.03404
 code: https://github.com/facebookresearch/deit/blob/main/README_resmlp.md
 ---
