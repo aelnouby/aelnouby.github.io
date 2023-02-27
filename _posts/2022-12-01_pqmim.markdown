@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Image Compression with Product Quantized Masked Image Modeling"
+image: images/pqmim.png
+categories: research
+authors: <strong>Alaaeldin El-Nouby</strong>, Matthew J. Muckley, Karen Ullrich, Ivan Laptev, Jakob Verbeek, Hervé Jégou
+venue: Under review
+arxiv: https://arxiv.org/abs/2212.07372
+---
+In this work, we attempt to bring image generation and neural compression lines of research closer by revisiting vector quantization for image compression.  First, we replace the vanilla vector quantizer by a product quantizer. Second, inspired by the success of Masked Image Modeling (MIM) in the context of self-supervised learning and generative image models, we propose a novel conditional entropy model which improves entropy coding by modelling the co-dependencies of the quantized latent codes. The resulting PQ-MIM model is surprisingly effectiv, we explore the extreme compression regime where an image is compressed into 200 bytes, i.e., less than a tweet.
