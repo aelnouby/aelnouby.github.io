@@ -5,7 +5,7 @@ image: images/tradeoffs.jpg
 categories: research
 author: "Alaaeldin El-Nouby"
 authors: "Ben Graham, <strong>Alaaeldin El-Nouby</strong>, Hugo Touvron, Pierre Stock, Armand Joulin, Hervé Jégou, Matthijs Douze"
-venue: "<strong>To appear at ICCV 2021 </strong>"
+venue: "<strong>ICCV 2021 </strong>"
 arxiv: https://arxiv.org/abs/2104.01136
 code: https://github.com/facebookresearch/LeViT
 ---
