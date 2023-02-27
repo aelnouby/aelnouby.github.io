@@ -4,7 +4,7 @@ title:  "OmniMAE: Single Model Masked Pretraining on Images and Videos"
 image: images/omnimae.png
 categories: research
 authors: "Rohit Girdhar*, <strong>Alaaeldin El-Nouby*</strong>, Mannat Singh*, Kalyan Vasudev Alwala*, Armand Joulin, Ishan Misra*"
-venue: Under Review
+venue: CVPR 2023
 arxiv: https://arxiv.org/abs/2206.08356
 code: https://github.com/facebookresearch/omnivore
 ---
