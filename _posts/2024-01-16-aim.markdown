@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Scalable Pre-training of Large Autoregressive Image Models"
+image: images/aim.png
+categories: research
+authors: "<strong>Alaaeldin El-Nouby</strong>, Michal Klein, Shuangfei Zhai, Miguel Angel Bautista, Alexander Toshev, Vaishaal Shankar, Joshua M. Susskind, Armand Joulin"
+venue: "<strong>ICML 2024</strong>"
+arxiv: https://arxiv.org/abs/2401.08541
+code: https://github.com/apple/ml-aim
+---
+We scale autoregressive image model pre-training and study how architecture, data, and compute affect visual representation learning.

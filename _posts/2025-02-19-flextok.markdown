@@ -1,0 +1,11 @@
+---
+layout: post
+title: "FlexTok: Resampling Images into 1D Token Sequences of Flexible Length"
+image: images/flextok.png
+categories: research
+authors: "Roman Bachmann, Jesse Allardice, David Mizrahi, Enrico Fini, Oguzhan Fatih Kar, Elmira Amirloo, <strong>Alaaeldin El-Nouby</strong>, Amir Zamir, Afshin Dehghan"
+venue: "<strong>ICML 2025</strong>"
+arxiv: https://arxiv.org/abs/2502.13967
+code: https://github.com/apple/ml-flextok
+---
+FlexTok resamples images into one-dimensional token sequences with flexible length, enabling visual tokenization that can adapt the number of tokens to the image and compute budget.

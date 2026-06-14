@@ -7,4 +7,4 @@ authors: "<strong>Alaaeldin El-Nouby*</strong>, Gautier Izacard*, Hugo Touvron, 
 venue: "Under Review"
 arxiv: https://arxiv.org/abs/2112.10740
 ---
-Pre-training models on large scale datasets, like ImageNet, is a standard practice in computer vision. We consider a self-supervised pre-training scenario that only leverages the target task data. We consider datasets, like Stanford Cars, Sketch or COCO, which are order(s) of magnitude smaller than Imagenet. Our study shows that denoising autoencoders, such as BEiT or a variant that we introduce in this paper, are more robust to the type and size of the pre-training data than popular self-supervised methods trained by comparing image embeddings.
+We study self-supervised pre-training directly on small target datasets and show that masked image modeling is robust to limited pre-training data.

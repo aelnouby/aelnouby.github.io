@@ -8,6 +8,4 @@ venue: <strong>TPAMI</strong>
 arxiv: https://arxiv.org/abs/2105.03404
 code: https://github.com/facebookresearch/deit/blob/main/README_resmlp.md
 ---
-We present ResMLP, an architecture built entirely upon multi-layer perceptrons for image classification.
-It is a simple residual network that alternates (i) a linear layer in which image patches interact, independently
-and identically across channels, and (ii) a two-layer feed-forward network in which channels interact independently per patch. 
+ResMLP studies how far simple residual architectures built from MLP blocks can go for data-efficient image classification.

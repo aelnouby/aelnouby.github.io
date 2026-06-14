@@ -10,7 +10,4 @@ arxiv: https://arxiv.org/abs/2106.09681v2
 code: https://github.com/facebookresearch/xcit
 video: https://www.youtube.com/watch?v=g08NkNWmZTA
 ---
-We propose a "transposed" version of self-attention that operates across feature channels rather than tokens. The resulting cross-covariance attention
-(XCA) has linear complexity in the number of tokens. Our cross-covariance image transformer (XCiT) is built upon XCA.
-It combines the accuracy of conventional transformers with the scalability of convnets. XCiT povides excellent results on multiple vision benchmarks, including image classification and self-supervised feature learning on ImageNet-1k,
-object detection and instance segmentation on COCO, and semantic segmentation on ADE20k.
+XCiT introduces cross-covariance attention, a channel-wise attention mechanism that gives vision transformers linear complexity in the number of image tokens.
