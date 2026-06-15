@@ -3,8 +3,8 @@ layout: post
 title:  "Image Compression with Product Quantized Masked Image Modeling"
 image: images/pqmim.png
 categories: research
-authors: <strong>Alaaeldin El-Nouby</strong>, Matthew J. Muckley, Karen Ullrich, Ivan Laptev, Jakob Verbeek, Hervé Jégou
-venue: <strong>Transactions of Machine Learning Research (TMLR)</strong>
+authors: <u>Alaaeldin El-Nouby</u>, Matthew J. Muckley, Karen Ullrich, Ivan Laptev, Jakob Verbeek, Hervé Jégou
+venue: Transactions of Machine Learning Research (TMLR)
 arxiv: https://arxiv.org/abs/2212.07372
 ---
 PQ-MIM combines product quantization and masked image modeling to improve neural image compression, including extreme low-bitrate settings.

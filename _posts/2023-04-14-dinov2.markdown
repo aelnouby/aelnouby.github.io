@@ -3,7 +3,7 @@ layout: post
 title: "DINOv2: Learning Robust Visual Features without Supervision"
 image: images/dinov2.png
 categories: research
-authors: "Maxime Oquab, Timothee Darcet, Theo Moutakanni, Huy Vo, Marc Szafraniec, Vasil Khalidov, Pierre Fernandez, Daniel Haziza, Francisco Massa, <strong>Alaaeldin El-Nouby</strong>, Mahmoud Assran, Nicolas Ballas, Wojciech Galuba, Russell Howes, Po-Yao Huang, Shang-Wen Li, Ishan Misra, Michael Rabbat, Vasu Sharma, Gabriel Synnaeve, Hu Xu, Herve Jegou, Julien Mairal, Patrick Labatut, Armand Joulin, Piotr Bojanowski"
+authors: "Maxime Oquab, Timothee Darcet, Theo Moutakanni, Huy Vo, Marc Szafraniec, Vasil Khalidov, Pierre Fernandez, Daniel Haziza, Francisco Massa, <u>Alaaeldin El-Nouby</u>, Mahmoud Assran, Nicolas Ballas, Wojciech Galuba, Russell Howes, Po-Yao Huang, Shang-Wen Li, Ishan Misra, Michael Rabbat, Vasu Sharma, Gabriel Synnaeve, Hu Xu, Herve Jegou, Julien Mairal, Patrick Labatut, Armand Joulin, Piotr Bojanowski"
 venue: "Preprint"
 arxiv: https://arxiv.org/abs/2304.07193
 code: https://github.com/facebookresearch/dinov2

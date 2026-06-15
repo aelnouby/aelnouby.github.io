@@ -4,7 +4,7 @@ title:  "Training Vision Transformers for Image Retrieval"
 image: images/irt.png
 categories: research
 author: "Alaaeldin El-Nouby"
-authors: "<strong>Alaaeldin El-Nouby</strong>,  Natalia Neverova, Ivan Laptev, Hervé Jégou"
+authors: "<u>Alaaeldin El-Nouby</u>,  Natalia Neverova, Ivan Laptev, Hervé Jégou"
 venue: "Preprint"
 arxiv: https://arxiv.org/abs/2102.05644
 ---

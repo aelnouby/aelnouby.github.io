@@ -5,7 +5,7 @@ title:  "Tell, Draw, and Repeat: Generating and Modifying Images Based
 image: images/GeNeVA.png
 categories: research
 author: "Alaaeldin El-Nouby"
-authors: "<strong>Alaaeldin El-Nouby</strong>, Shikhar Sharma, Hannes
+authors: "<u>Alaaeldin El-Nouby</u>, Shikhar Sharma, Hannes
               Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua
               Bengio, Graham W.Taylor"
 venue: "Proceedings of the 2019 IEEE International Conference on

@@ -21,7 +21,7 @@
 
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -37,9 +37,11 @@
               <h1>
                 Alaaeldin El-Nouby
               </h1>
-              <p>I am a Research Scientist at Meta Superintelligence Labs (FAIR)
-                working on agentic coding post-training. I previously led research on
-                LLM and multimodal pre-training, self-supervised learning, and image compression.</p>
+              <p>I am a Staff Research Scientist at Meta Superintelligence Labs (FAIR)
+                working on agentic coding post-training and previously LLM pre-training.
+                <!-- I previously led research on -->
+                <!-- LLM and multimodal pre-training, self-supervised learning, and image compression.</p> -->
+              Before that, I was part of the MLR team at Apple where I led research in scaling vision and multimodal pre-training.</p>
               <p>I completed my PhD in Computer Science at <a
                 href="https://ai.facebook.com/">Meta AI (FAIR)</a> and <a
                 href="https://www.di.ens.fr/">École Normale Supérieure</a>,
@@ -81,28 +83,61 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>News</h2>
-                <ul>
-                  <li>April 2026: Meta <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">announced</a> Muse Spark. I contributed to its agentic coding capabilities, more to come. </li>
-                  <li>June 2025: Joined <strong>Meta Superintelligence Labs</strong>.</li>
-                  <li>April 2025: <a href="https://arxiv.org/abs/2504.07951">Scaling Laws for Native Multimodal Models</a> was accepted at <strong>ICCV 2025</strong> as an <strong>oral</strong>.</li>
-                  <li>February 2025: Released <a href="https://arxiv.org/abs/2502.13967">FlexTok</a>, accepted at <strong>ICML 2025</strong>.</li>
-                  <li>January 2025: <a href="https://arxiv.org/abs/2501.12370">Parameters vs FLOPs</a> was accepted at <strong>ICML 2025</strong>.</li>
-                  <li>November 2024: Released <a href="https://arxiv.org/abs/2411.14402">Multimodal Autoregressive Pre-training of Large Vision Encoders</a>, accepted at <strong>CVPR 2025</strong> as a <strong>highlight</strong>.</li>
-                  <li>June 2024: Released <a href="https://arxiv.org/abs/2406.11794">DataComp-LM</a>, accepted at <strong>NeurIPS 2024</strong>.</li>
-                  <li>January 2024: Released <a href="https://arxiv.org/abs/2401.08541">Scalable Pre-training of Large Autoregressive Image Models</a>, accepted at <strong>ICML 2024</strong>.</li>
-                  <li>August 2023: Joined Apple MLR as a Research Scientist.</li>
-                  <li>May 2023: Mark Zuckerberg <a href="https://www.facebook.com/reel/957710632033177/">announced</a> our recent foundational multimodal model ImageBind</li>
-                  <li>May 2023: Released <a href="https://arxiv.org/abs/2305.05665">ImageBind</a>, accepted at <strong>CVPR 2023</strong>.</li>
+                <ul class="news-list">
+                  <li>
+                    <span class="news-date">Apr 2026</span>
+                    <span class="news-text">Meta <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">announced</a> Muse Spark, its latest frontier LLM. My team contributed to its agentic coding capabilities.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Jun 2025</span>
+                    <span class="news-text">Joined Meta Superintelligence Labs (FAIR).</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Apr 2025</span>
+                    <span class="news-text"><a href="https://arxiv.org/abs/2504.07951">Scaling Laws for Native Multimodal Models</a> was accepted at ICCV 2025 as an oral.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Feb 2025</span>
+                    <span class="news-text">Released <a href="https://arxiv.org/abs/2502.13967">FlexTok</a>, accepted at ICML 2025.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Jan 2025</span>
+                    <span class="news-text"><a href="https://arxiv.org/abs/2501.12370">Parameters vs FLOPs</a> was accepted at ICML 2025.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Nov 2024</span>
+                    <span class="news-text">Released <a href="https://arxiv.org/abs/2411.14402">AIMv2</a>, accepted at CVPR 2025 as a highlight.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Jun 2024</span>
+                    <span class="news-text">Released <a href="https://arxiv.org/abs/2406.11794">DataComp-LM</a>, accepted at NeurIPS 2024.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Jan 2024</span>
+                    <span class="news-text">Released <a href="https://arxiv.org/abs/2401.08541">Autoregressive Image Models (AIM)</a>, accepted at ICML 2024.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">Aug 2023</span>
+                    <span class="news-text">Joined Apple MLR as a Research Scientist.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">May 2023</span>
+                    <span class="news-text">Mark Zuckerberg <a href="https://www.facebook.com/reel/957710632033177/">announced</a> our recent foundational multimodal model ImageBind.</span>
+                  </li>
+                  <li>
+                    <span class="news-date">May 2023</span>
+                    <span class="news-text">Released <a href="https://arxiv.org/abs/2305.05665">ImageBind</a>, accepted at CVPR 2023.</span>
+                  </li>
                   <!-- <li>April 2023: Released <a href="https://arxiv.org/abs/2304.07193">DINOv2</a> for robust self-supervised visual features.</li> -->
-                  <!-- <li>March 2023: Our recent work on neural image compression (<a href="https://arxiv.org/abs/2212.07372"> PQ-MIM</a>) has been accepted at <strong>TMLR</strong>.</li> -->
-                  <!-- <li>February 2023: 2 papers accepted at <strong>CVPR 2023</strong> ! (<a href="https://arxiv.org/abs/2206.08356">OmniMAE</a> and ImageBind).</li> -->
-                  <!-- <li>February 2023: 1 paper accepted at <strong>ICASSP 2023</strong> with Federico Baldassarre and Herve Jegou.</li> -->
+                  <!-- <li>March 2023: Our recent work on neural image compression (<a href="https://arxiv.org/abs/2212.07372"> PQ-MIM</a>) has been accepted at TMLR.</li> -->
+                  <!-- <li>February 2023: 2 papers accepted at CVPR 2023 ! (<a href="https://arxiv.org/abs/2206.08356">OmniMAE</a> and ImageBind).</li> -->
+                  <!-- <li>February 2023: 1 paper accepted at ICASSP 2023 with Federico Baldassarre and Herve Jegou.</li> -->
                   <!-- <li>December 2022: Released <a href="https://arxiv.org/abs/2212.07372"> PQ-MIM</a>, a novel neural image compression method based on Product-Quantization and Masked Image Modeling.</li> -->
                   <!-- <li>June 2022: Released and open-sourced the <a href="https://github.com/facebookresearch/omnivore">code</a> for  <a href="https://arxiv.org/abs/2206.08356">OmniMAE</a></li> -->
                   <!-- <li>December 2021: A new preprint titled <a href="https://arxiv.org/abs/2112.13692">"Augmenting Convolutional networks with attention-based aggregation"</a> </li> -->
                   <!-- <li>December 2021: A new preprint titled <a href="https://arxiv.org/abs/2112.10740">"Are Large-scale Datasets Necessary for Self-Supervised Pre-training?"</a> </li> -->
-                  <!-- <li>September 2021: XCiT has been accepted at <strong>NeurIPS 2021</strong> </li> -->
-                  <!-- <li> July 2021: LeViT has been accepted at <strong>ICCV 2021</strong> </li> -->
+                  <!-- <li>September 2021: XCiT has been accepted at NeurIPS 2021 </li> -->
+                  <!-- <li> July 2021: LeViT has been accepted at ICCV 2021 </li> -->
                   <!-- <li>June 2021: XCiT has been covered and explained by Yannic Kilcher, check out the <a href="https://www.youtube.com/watch?v=g08NkNWmZTA">video</a> !.</li> -->
 
                   <!-- <li>June 2021: A new preprint for our <a href="https://arxiv.org/abs/2106.09681v2">XCiT</a> model offering a strong and general vision backbone with linear complexity in image-size.</li> -->
@@ -110,7 +145,7 @@
                   <!-- <li>April 2021:  A new preprint for our recent research on efficient vision transformers <a href="https://arxiv.org/abs/2104.01136">"LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference"</a></li> -->
                   <!-- <li>February 2021: Released a preprint of our recent work <a href="https://arxiv.org/abs/2102.05644"> "Training Vision Transformers for Image Retrieval"</a> </li> -->
                   <!-- <li>August 2020: I have joined Facebook AI Research, Paris as an AI Research PhD student!</li> -->
-                  <!-- <li>November 2019: Our paper "Skip-Clip" won <strong>Best Poster Award</strong> at the Holistic Video Understanding Workshop, ICCV2019.</li> -->
+                  <!-- <li>November 2019: Our paper "Skip-Clip" won Best Poster Award at the Holistic Video Understanding Workshop, ICCV2019.</li> -->
                   <!-- <li>September 2019: Successfully defended my <a -->
                   <!-- href="https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/17417/ali_alaaeldin_201909_MSc.pdf?sequence=5&isAllowed=y">MSc -->
                   <!-- thesis</a> at University of Guelph.</li> -->
@@ -121,7 +156,7 @@
                     <!-- Shuangfei Zhai</a></li> -->
                     <!-- <li>November 2018: One <a href="https://nips2018vigil.github.io/static/papers/accepted/13.pdf">paper</a> accepted at ViGIL workshop (NeurIPS 2018)</li> -->
                     <!-- <li>August 2018: Started an internship at Microsoft Research Montreal.</li> -->
-                    <!-- <li>February 2018: One <a href="https://arxiv.org/abs/1802.08362">paper</a> accepted for <strong>oral</strong> presentation at CRV 2018.</li> -->
+                    <!-- <li>February 2018: One <a href="https://arxiv.org/abs/1802.08362">paper</a> accepted for oral presentation at CRV 2018.</li> -->
                 </ul>
             </td>
           </tr>
@@ -136,50 +171,84 @@
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table class="research-papers" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
           {% if cat == 'research' %}
-          <tr>
+          <tr class="paper-row">
             {% if post.image %}
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+            <td class="paper-image-cell" style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
+            <td class="paper-content" style="padding:2.5%;width:75%;vertical-align:middle">
             {% else %}
-            <td style="padding:2.5%;width:100%;vertical-align:middle" colspan="2">
+            <td class="paper-content" style="padding:2.5%;width:100%;vertical-align:middle" colspan="2">
             {% endif %}
-              <h3>{{post.title}}</h3>
-              <br>
-              {{post.authors}}
-
-              <br>
-              <em>{{post.venue}}</em>
-              <br>
+              <h3 class="paper-title">{{post.title}}</h3>
+              <div class="paper-authors">{{post.authors}}</div>
+              <div class="paper-venue-line">
+              <em class="paper-venue">{{post.venue}}</em>
+              {% if post.recognition %}
+              <span class="paper-badge paper-badge-{{post.recognition}}">
+                {% if post.recognition == 'oral' %}
+                <svg class="paper-badge-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M12 3v10"></path>
+                  <path d="M8 13a4 4 0 0 0 8 0"></path>
+                  <path d="M6 9v4a6 6 0 0 0 12 0V9"></path>
+                  <path d="M12 19v2"></path>
+                  <path d="M9 21h6"></path>
+                </svg>
+                {% else %}
+                <svg class="paper-badge-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M12 3l2.3 5.1 5.5.6-4.1 3.7 1.1 5.4L12 15.1l-4.8 2.7 1.1-5.4-4.1-3.7 5.5-.6L12 3z"></path>
+                </svg>
+                {% endif %}
+                {{post.recognition_label}}
+              </span>
+              {% endif %}
+              </div>
+              <span class="paper-links">
               {% if post.arxiv %}
-              <a href="{{post.arxiv}}">arxiv</a> /
+              <a class="paper-link" href="{{post.arxiv}}" title="Paper">
+                <svg class="paper-link-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M6 3h8l4 4v14H6z"></path>
+                  <path d="M14 3v5h4"></path>
+                  <path d="M8.5 13h7"></path>
+                  <path d="M8.5 16h7"></path>
+                </svg>
+                paper
+              </a>
               {% endif %}
               {% if post.video %}
-              <a href="{{post.video}}">video</a> /
+              <a class="paper-link" href="{{post.video}}">video</a>
               {% endif %}
               {% if post.code %}
-              <a href="{{post.code}}">code</a> /
+              <a class="paper-link" href="{{post.code}}" title="Code">
+                <svg class="paper-link-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M8 9l-4 3 4 3"></path>
+                  <path d="M16 9l4 3-4 3"></path>
+                  <path d="M14 5l-4 14"></path>
+                </svg>
+                code
+              </a>
               {% endif %}
               {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
+              <a class="paper-link" href="{{post.poster}}">poster</a>
               {% endif %}
               {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
+              <a class="paper-link" href="{{post.slides}}">slides</a>
               {% endif %}
               {% if post.blog %}
-              <a href="{{post.blog}}">blog</a> /
+              <a class="paper-link" href="{{post.blog}}">blog</a>
               {% endif %}
               {% if post.bibtex %}
-              <a href="{{post.bibtex}}">bibtex</a> /
+              <a class="paper-link" href="{{post.bibtex}}">bibtex</a>
               {% endif %}
-              <p></p>
+              </span>
+              <!-- <div class="paper-excerpt">
               {{ post.excerpt }}
+              </div> -->
             </td>
           </tr>
           {% endif %}

@@ -4,7 +4,7 @@ title: "DataComp-LM: In Search of the Next Generation of Training Sets for Langu
 image: images/datacomp_lm.png
 categories: research
 authors: "Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, Matt Jordan, Vaishaal Shankar et al."
-venue: "<strong>NeurIPS 2024</strong>"
+venue: "NeurIPS 2024"
 arxiv: https://arxiv.org/abs/2406.11794
 code: https://github.com/mlfoundations/dclm
 ---

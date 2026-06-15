@@ -3,8 +3,8 @@ layout: post
 title: "Scalable Pre-training of Large Autoregressive Image Models"
 image: images/aim.png
 categories: research
-authors: "<strong>Alaaeldin El-Nouby</strong>, Michal Klein, Shuangfei Zhai, Miguel Angel Bautista, Alexander Toshev, Vaishaal Shankar, Joshua M. Susskind, Armand Joulin"
-venue: "<strong>ICML 2024</strong>"
+authors: "<u>Alaaeldin El-Nouby</u>, Michal Klein, Shuangfei Zhai, Miguel Angel Bautista, Alexander Toshev, Vaishaal Shankar, Joshua M. Susskind, Armand Joulin"
+venue: "ICML 2024"
 arxiv: https://arxiv.org/abs/2401.08541
 code: https://github.com/apple/ml-aim
 ---

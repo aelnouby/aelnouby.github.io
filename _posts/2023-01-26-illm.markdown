@@ -3,8 +3,8 @@ layout: post
 title: "Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models"
 image: images/illm.png
 categories: research
-authors: "Matthew J. Muckley, <strong>Alaaeldin El-Nouby</strong>, Karen Ullrich, Herve Jegou, Jakob Verbeek"
-venue: "<strong>ICML 2023</strong>"
+authors: "Matthew J. Muckley, <u>Alaaeldin El-Nouby</u>, Karen Ullrich, Herve Jegou, Jakob Verbeek"
+venue: "ICML 2023"
 arxiv: https://arxiv.org/abs/2301.11189
 ---
 We improve neural image compression by modeling local likelihoods more faithfully, increasing statistical fidelity while preserving practical compression performance.

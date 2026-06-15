@@ -5,9 +5,9 @@ title:  "Skip-Clip: Self-Supervised Spatiotemporal Representation
 image: images/skipclip.jpg
 categories: research
 author: "Alaaeldin El-Nouby"
-authors: "<strong>Alaaeldin El-Nouby</strong>, Shuangfei Zhai, Graham W.
+authors: "<u>Alaaeldin El-Nouby</u>, Shuangfei Zhai, Graham W.
               Taylor, Joshua M. Susskind"
-venue: "Holistic Video Understanding Workshop ICCV2019 <strong>(Best poster Award)</strong>"
+venue: "Holistic Video Understanding Workshop ICCV2019 (Best poster Award)"
 arxiv: https://arxiv.org/abs/1910.12770
 poster: static/SkipClip__ICCV_poster.pdf
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wVlGz8mDDl8J:scholar.google.com/&output=citation&scisdr=CgVEUX-mEJL1iATrkuY:AAGBfm0AAAAAXvHuiuZbUT0QQRczLXcApo_VSjD5rSBp&scisig=AAGBfm0AAAAAXvHuihibXdeqwpe64aCTBIFICtClIGe2&scisf=4&ct=citation&cd=-1&hl=en
